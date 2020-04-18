@@ -1,6 +1,6 @@
 # 2020-qingdao-Corporate_Credit-top4
 2020-识别失信企业大赛-top4
-2020识别失信企业大赛（链接：http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html）
+2020识别失信企业大赛（链接：http://sdac.qingdao.gov.cn/static_page/cmpList.html）
 主要基于竞赛圈开源方案进行处理，改进不多，感谢开源。复赛a榜top4，b榜top4，在赛题过拟合情况明显的同时，防过拟操作效果明显。
 方案特点：
 1. 经EDA发现部分离群点，将这部分离群点改值为None，避免学习到异常信息造成过拟合
